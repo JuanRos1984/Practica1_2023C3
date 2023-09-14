@@ -18,6 +18,7 @@ namespace Practica1_2023C3
             }
             else
                 Console.WriteLine("Nada");
+                //
         }
     }
 }
