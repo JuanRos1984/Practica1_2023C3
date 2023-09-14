@@ -1,0 +1,17 @@
+C:\Users\johan\source\repos\Practica1_2023C3\Practica1_2023C3\bin\Debug\net6.0\Practica1_2023C3.exe
+C:\Users\johan\source\repos\Practica1_2023C3\Practica1_2023C3\bin\Debug\net6.0\Practica1_2023C3.deps.json
+C:\Users\johan\source\repos\Practica1_2023C3\Practica1_2023C3\bin\Debug\net6.0\Practica1_2023C3.runtimeconfig.json
+C:\Users\johan\source\repos\Practica1_2023C3\Practica1_2023C3\bin\Debug\net6.0\Practica1_2023C3.dll
+C:\Users\johan\source\repos\Practica1_2023C3\Practica1_2023C3\bin\Debug\net6.0\Practica1_2023C3.pdb
+C:\Users\johan\source\repos\Practica1_2023C3\Practica1_2023C3\obj\Debug\net6.0\Practica1_2023C3.csproj.AssemblyReference.cache
+C:\Users\johan\source\repos\Practica1_2023C3\Practica1_2023C3\obj\Debug\net6.0\Practica1_2023C3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\source\repos\Practica1_2023C3\Practica1_2023C3\obj\Debug\net6.0\Practica1_2023C3.AssemblyInfoInputs.cache
+C:\Users\johan\source\repos\Practica1_2023C3\Practica1_2023C3\obj\Debug\net6.0\Practica1_2023C3.AssemblyInfo.cs
+C:\Users\johan\source\repos\Practica1_2023C3\Practica1_2023C3\obj\Debug\net6.0\Practica1_2023C3.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\Practica1_2023C3\Practica1_2023C3\obj\Debug\net6.0\Practica1_2023C3.dll
+C:\Users\johan\source\repos\Practica1_2023C3\Practica1_2023C3\obj\Debug\net6.0\refint\Practica1_2023C3.dll
+C:\Users\johan\source\repos\Practica1_2023C3\Practica1_2023C3\obj\Debug\net6.0\Practica1_2023C3.pdb
+C:\Users\johan\source\repos\Practica1_2023C3\Practica1_2023C3\obj\Debug\net6.0\Practica1_2023C3.genruntimeconfig.cache
+C:\Users\johan\source\repos\Practica1_2023C3\Practica1_2023C3\obj\Debug\net6.0\ref\Practica1_2023C3.dll
+C:\Users\johan\source\repos\Practica1_2023C3\Practica1_2023C3\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\johan\source\repos\Practica1_2023C3\Practica1_2023C3\obj\Debug\net6.0\Practica1_2023C3.csproj.CopyComplete

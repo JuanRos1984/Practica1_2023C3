@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O1/JDLQtcE4nqW8pKdV+KpKL1rWyTCovhyQo89r6kOFAMMq1ZHvoAO6YHJr5mTTULtePY7FOx7DuU4dar5iouQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\johan\\source\\repos\\Practica1_2023C3\\Practica1_2023C3\\Practica1_2023C3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\johan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
